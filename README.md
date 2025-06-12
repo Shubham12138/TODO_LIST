@@ -20,28 +20,6 @@ A lightweight, high-performance To-Do List app built using **React + Vite**. Eas
 
 ---
 
-## 📸 Demo
-
-> *(Optional)* Add screenshot or demo video here.
-
----
-
-## 🗂️ Folder Structure
-
-/vite-todo-app
-├── public/
-├── src/
-│ ├── App.jsx
-│ ├── App.css
-│ ├── main.jsx
-│ └── components/
-│ └── TodoItem.jsx
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
-
-
 ---
 
 ## 🛠️ Getting Started
