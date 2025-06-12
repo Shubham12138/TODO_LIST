@@ -37,60 +37,39 @@ cd TODO_LIST
 npm install
 npm run dev
 ```
-🧪 Testing Guide
-Add a Task
+##  🧪 Testing Guide
+###  Add a Task
 
-Type in the input field and click "Add" — task will be added.
+- Type in the input field and click "Add" — task will be added.
 
-Edit a Task
+### Edit a Task
 
-Click the ✏️ edit icon or double-click the task to update it.
+- Click the ✏️ edit icon or double-click the task to update it.
 
-Validate Input
+### Validate Input
 
-Prevents adding blank or duplicate tasks.
+- Prevents adding blank or duplicate tasks.
 
-Mark Task as Complete
+### Mark Task as Complete
 
-Click ✅ icon — task will be styled as completed.
+- Click ✅ icon — task will be styled as completed.
 
-Delete Task
+### Delete Task
 
-Click 🗑️ icon — task will be removed.
+- Click 🗑️ icon — task will be removed.
 
-Persistence Check
+### Persistence Check
 
-Refresh the page — tasks remain (via localStorage).
+- Refresh the page — tasks remain (via localStorage).
 
-Optional: Filter Tasks
+## 📦 Built With
 
-If implemented, filter between All, Completed, and Pending tasks.
+- React
+- Vite
+- JavaScript (ES6)
+- CSS
 
-📦 Built With
-React
+##👤 Author
 
-Vite
-
-JavaScript (ES6)
-
-CSS3
-
-LocalStorage API
-
-👤 Author
-Shubham
-
-GitHub
-
-
-
-📃 License
-Licensed under the MIT License.
-
-🙏 Acknowledgements
-React Documentation
-
-Vite Documentation
-
-react-icons
-
+- Shubham
+- GitHub
