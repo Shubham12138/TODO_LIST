@@ -69,7 +69,7 @@ npm run dev
 - JavaScript (ES6)
 - CSS
 
-##👤 Author
+## 👤 Author
 
 - Shubham
 - GitHub
